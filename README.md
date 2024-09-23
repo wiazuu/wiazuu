@@ -4,8 +4,7 @@
 
 <p align="center">Meu nome é Lucas César, sou estudante de Ciências da Computação.<br> 
 Meus interesses são SO, linguagens de baixo nível e Back-End.<br> 
-Gosto de estar sempre em total controle da máquina para extrair o máximo dela.<br>
-Estou no começo, porém isso não me impede de nada.</p>
+Gosto de estar sempre em total controle da máquina para extrair o máximo dela.<br>.</p>
 
 
 ###
