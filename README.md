@@ -40,15 +40,6 @@ Gosto de estar sempre em total controle da máquina para extrair o máximo dela.
 
 
 ###
-
-<h2 align="center">📈Estatística</h2>
-
-  ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=wiazuu&show_icons=true&theme=radical)
-</div>
-
-
-<h2 align="center">📞 Contato</h2>
-
 ###
 
 <br clear="both">
